@@ -1,0 +1,159 @@
+TABLE 1p. Weekly cases* of notifiable diseases, United States, U.S. Territories, and Non-U.S. Residents weeks ending April 13, 2019 (week 15)
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Hemolytic uremic syndrome post-diarrheal current week
+Hemolytic uremic syndrome post-diarrheal previous 52 weeks maximum†
+Hemolytic uremic syndrome post-diarrheal cummulative YTD for 2019†
+Hemolytic uremic syndrome post-diarrheal cummulative YTD for 2018†
+Hepatitis (viral, acute, by type); A current week
+Hepatitis (viral, acute, by type); A previous 52 weeks maximum†
+Hepatitis (viral, acute, by type); A cummulative YTD for 2019†
+Hepatitis (viral, acute, by type); A cummulative YTD for 2018†
+Hepatitis (viral, acute, by type); B current week
+Hepatitis (viral, acute, by type); B previous 52 weeks maximum†
+Hepatitis (viral, acute, by type); B cummulative YTD for 2019†
+Hepatitis (viral, acute, by type); B cummulative YTD for 2018†
+
+tab delimited data:
+U.S. Residents, excluding U.S. Territories	1	16	21	34	131	411	4,593	1,203	12	86	607	915	
+New England	-	1	-	2	1	27	186	23	1	6	30	43	
+Connecticut	-	0	-	1	-	3	6	5	-	2	1	5	
+Maine	-	0	-	-	-	3	7	2	1	4	20	14	
+Massachusetts	-	1	-	-	-	26	102	13	-	3	7	24	
+New Hampshire	-	1	-	1	1	11	65	2	-	1	-	-	
+Rhode Island	-	1	-	-	-	2	3	1	U	NC	U	U	
+Vermont	-	0	-	-	-	1	3	-	-	2	2	-	
+Middle Atlantic	1	4	1	5	2	16	118	91	1	7	35	49	
+New Jersey	-	1	-	3	-	4	7	22	-	4	3	19	
+New York (excluding New York City)	-	3	-	1	-	7	29	23	-	4	13	6	
+New York City	-	2	-	1	2	4	29	21	-	3	9	9	
+Pennsylvania	1	4	1	-	-	8	53	25	1	3	10	15	
+East North Central	-	4	3	6	63	148	1,058	316	3	17	83	154	
+Illinois	-	1	1	2	-	9	46	18	1	2	4	7	
+Indiana	-	2	-	1	-	38	1	97	-	7	-	46	
+Michigan	-	1	1	1	-	13	17	160	-	5	14	14	
+Ohio	-	1	1	1	63	105	994	34	1	12	61	85	
+Wisconsin	-	1	-	1	-	1	-	7	1	1	4	2	
+West North Central	-	5	4	5	1	10	53	101	-	5	19	18	
+Iowa	-	2	1	-	-	2	2	4	-	2	5	1	
+Kansas	-	2	1	1	-	2	3	4	-	2	4	5	
+Minnesota	-	2	-	1	-	2	-	4	-	2	-	6	
+Missouri	-	2	-	1	1	9	44	85	-	2	9	5	
+Nebraska	-	2	-	1	-	2	1	4	-	1	-	1	
+North Dakota	-	2	2	1	-	1	1	-	-	1	-	-	
+South Dakota	-	0	-	-	-	1	2	-	-	1	1	-	
+South Atlantic	-	5	3	5	8	142	1,182	117	1	44	224	365	
+Delaware	-	0	-	-	-	1	2	2	-	1	3	4	
+District of Columbia	-	0	-	-	U	NC	U	U	U	NC	U	U	
+Florida	-	2	-	-	-	69	678	43	-	21	128	185	
+Georgia	-	1	2	3	6	20	167	12	-	9	23	48	
+Maryland	-	1	-	-	2	5	22	13	1	3	3	10	
+North Carolina	-	1	1	2	-	6	23	15	-	10	38	58	
+South Carolina	-	1	-	-	-	7	32	-	-	3	9	12	
+Virginia	-	2	-	-	-	13	42	14	-	4	7	17	
+West Virginia	-	1	-	-	-	121	216	18	-	9	13	31	
+East South Central	-	4	4	2	37	169	1,529	327	4	19	137	176	
+Alabama	-	1	2	-	2	5	43	5	-	4	18	19	
+Kentucky	-	1	1	-	24	146	1,020	308	4	11	66	86	
+Mississippi	-	0	-	-	-	1	3	7	-	4	7	15	
+Tennessee	-	4	1	2	11	46	463	7	-	10	46	56	
+West South Central	-	5	2	2	-	34	112	25	1	11	32	36	
+Arkansas	-	2	1	-	-	18	50	11	-	4	7	6	
+Louisiana	-	0	-	1	-	8	30	1	-	4	14	15	
+Oklahoma	-	5	-	-	-	3	-	-	-	1	-	-	
+Texas	-	2	1	1	-	8	32	13	1	7	11	15	
+Mountain	-	4	2	5	19	28	297	115	1	7	20	27	
+Arizona	-	2	1	-	12	18	191	9	-	3	6	8	
+Colorado	-	4	-	1	5	4	19	4	-	1	1	6	
+Idaho	-	2	-	2	-	4	13	2	1	1	3	-	
+Montana	-	1	-	-	-	1	1	-	-	1	-	-	
+Nevada	-	1	-	-	-	3	11	9	-	2	3	6	
+New Mexico	-	1	-	1	2	8	53	-	-	1	2	-	
+Utah	-	2	1	1	-	6	7	87	-	4	5	7	
+Wyoming	-	0	-	-	-	1	2	4	-	0	-	-	
+Pacific	-	3	2	2	-	9	58	88	-	7	27	47	
+Alaska	-	0	-	-	-	0	-	1	-	2	5	2	
+California	-	1	1	1	-	7	43	73	-	6	19	19	
+Hawaii	-	0	-	-	-	2	1	-	-	1	-	2	
+Oregon	-	3	1	1	-	3	6	8	-	2	3	10	
+Washington	N	NC	N	N	-	2	8	6	-	3	-	14	
+U.S. Territories	-	0	-	-	-	0	-	-	-	0	-	-	
+American Samoa	N	NC	N	N	-	0	-	-	-	0	-	-	
+Commonwealth of Northern Mariana Islands	-	0	-	-	-	0	-	-	-	0	-	-	
+Guam	-	0	-	-	-	0	-	-	-	0	-	-	
+Puerto Rico	N	NC	N	N	-	0	-	-	-	0	-	-	
+U.S. Virgin Islands	-	0	-	-	-	0	-	-	-	0	-	-	
+Non-U.S. Residents	-	NC	-	NP	-	NC	13	NP	-	NC	-	NP	
+Total	1	16	21	34	131	411	4,606	1,203	12	86	607	915	
+
+U: Unavailable - The reporting jurisdiction was unable to send the data to CDC or CDC was unable to process the data.
+-: No reported cases - The reporting jurisdiction did not submit any cases to CDC.
+N: Not reportable - The disease or condition was not reportable by law, statute, or regulation in the reporting jurisdiction. 
+NN: Not nationally notifiable - This condition was not designated as being nationally notifiable.
+NP: Nationally notifiable but not published.
+NC: Not calculated - There is insufficient data available to support the calculation of this statistic.
+Cum: Cumulative year-to-date counts.
+Maximum - Maximum case count during the previous 52 weeks.
+* Case counts for reporting years 2018 and 2019 are provisional and subject to change.
+Cases are assigned to the reporting jurisdiction submitting the case to NNDSS, if the case's country of usual residence is the U.S., 
+a U.S. territory, unknown, or null (i.e. country not reported); otherwise, the case is assigned to the 'Non-U.S. Residents' category.
+Country of usual residence is currently not reported by all jurisdictions or for all conditions.  
+For further information on interpretation of these data, see  
+https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf.
+†Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data). 
+
+
+Notes:
+
+	These are weekly cases of selected infectious 
+	national notifiable diseases, from the 
+	National Notifiable Diseases Surveillance System (NNDSS).  
+	NNDSS data reported by the 50 states, New York City, the District of Columbia, 
+	and the U.S. territories are collated and published weekly as numbered tables. 
+	Cases reported by state health departments to CDC for weekly publication are 
+	subject to ongoing revision of information and delayed reporting.
+	Therefore, numbers listed in later weeks may reflect changes made to 
+	these counts as additional information becomes available. 
+	Case counts in the tables are presented as published each week.
+	See also https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf, 
+	Guide to Interpreting Provisional and Finalized NNDSS Data. 
+
+
+	Weekly tables since 1996 are available on 
+	https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp, CDC WONDER. 
+
+	Weekly tables since 2014 are available on 
+	https://data.cdc.gov/browse?q=NNDSS&sortBy=newest&utf8=%E2%9C%93, Data.CDC.gov. 
+
+	Weekly tables for 1952-2017 published in the MMWR are available at https://stacks.cdc.gov/mmwr, CDC Stacks MMWR, 
+	and weekly tables starting in 2018 are available at https://stacks.cdc.gov/nndss, CDC Stacks NNDSS
+	(once in CDC Stacks NNDSS select "Weekly Tables" in the "Genre" box at the left).
+
+
+	Notices, errata, and other notes are available in the  
+	https://wonder.cdc.gov/nndss/NTR.html, Notice To Data Users page.
+
+	The list of national notifiable infectious diseases and conditions and their national surveillance case definitions are 
+	available at https://wwwn.cdc.gov/nndss/conditions/, https://wwwn.cdc.gov/nndss/conditions/. This list incorporates the Council of State and Territorial 
+	Epidemiologists (CSTE) position statements approved by CSTE for national surveillance. 
+
+Suggested Citation:
+
+	Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System, 
+	Weekly Tables of Infectious Disease Data. Atlanta, GA. CDC Division of Health Informatics and Surveillance. 
+	Available at: https://www.cdc.gov/nndss/infectious-tables.html, https://www.cdc.gov/nndss/infectious-tables.html.
+
+Acknowledgement:
+
+	CDC acknowledges the Local, State, and Territorial Health Departments that collected the data from a range of case ascertainment 
+	sources (e.g., health-care providers, hospitals, laboratories) and reported these data to 
+	CDC's National Notifiable Diseases Surveillance System.
+
+
+
+https://wwwn.cdc.gov/nndss/, National Notifiable Diseases Surveillance System
+
+Provided by https://wonder.cdc.gov, CDC WONDER
+
+
+

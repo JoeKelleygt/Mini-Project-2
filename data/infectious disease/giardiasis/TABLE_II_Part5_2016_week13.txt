@@ -1,0 +1,109 @@
+
+TABLE II. (Part 5)  Provisional cases of selected* notifiable diseases (>= 1,000 cases reported during the preceding year), and selected low frequency diseases, United States and U.S. Territories, week ending April 2, 2016 (WEEK 13)†
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Giardiasis current week
+Giardiasis previous 52 weeks median 
+Giardiasis previous 52 weeks maximum 
+Giardiasis cummulative for 2016
+Giardiasis cummulative for 2015
+Gonorrhea current week
+Gonorrhea previous 52 weeks median 
+Gonorrhea previous 52 weeks maximum 
+Gonorrhea cummulative for 2016
+Gonorrhea cummulative for 2015
+Haemophilus influenzae, invasive §, All ages, all serotypes current week
+Haemophilus influenzae, invasive §, All ages, all serotypes previous 52 weeks median 
+Haemophilus influenzae, invasive §, All ages, all serotypes previous 52 weeks maximum 
+Haemophilus influenzae, invasive §, All ages, all serotypes cummulative for 2016
+Haemophilus influenzae, invasive §, All ages, all serotypes cummulative for 2015
+
+tab delimited data:
+UNITED STATES	124	231	387	2,473	2,748	3,976	7,567	8,876	89,819	90,387	36	76	150	1,058	1,094						
+NEW ENGLAND	2	20	42	200	218	43	140	213	1,545	1,633	2	5	10	60	69						
+Conn.	-	4	10	42	49	43	41	96	469	425	-	1	3	13	13						
+Maine	2	2	10	24	17	-	8	20	14	40	1	0	3	7	11						
+Mass.	-	13	26	108	134	-	75	109	736	941	-	2	7	30	34						
+N.H.	-	2	6	15	16	-	5	53	168	57	-	0	2	4	4						
+R.I.	-	0	7	11	2	-	10	29	119	140	1	0	2	3	3						
+Vt.	N	0	0	N	N	-	3	8	39	30	-	0	1	3	4						
+MID. ATLANTIC	45	44	74	482	579	496	898	1,047	11,328	10,693	8	12	24	166	153						
+N.J.	-	0	9	6	79	57	137	172	1,657	1,826	-	2	7	30	30						
+N.Y. (Upstate)	23	16	34	189	154	163	170	343	1,983	1,771	5	4	20	48	48						
+N.Y. City	20	15	29	189	200	159	331	400	4,136	4,027	2	1	7	33	26						
+Pa.	2	12	22	98	146	117	256	376	3,552	3,069	1	4	11	55	49						
+E.N. CENTRAL	9	25	59	226	282	243	1,094	1,363	11,784	12,802	3	13	31	169	168						
+Ill.	N	0	0	N	N	-	310	400	1,994	3,982	-	4	8	43	45						
+Ind.	-	3	11	17	30	77	157	304	2,249	1,742	-	2	8	18	16						
+Mich.	-	8	20	61	95	-	206	274	2,315	2,441	-	2	10	38	30						
+Ohio	6	7	15	77	97	144	329	434	3,761	3,778	3	3	8	56	51						
+Wis.	3	7	34	71	60	22	109	162	1,465	859	-	2	6	14	26						
+W.N. CENTRAL	2	9	30	98	136	187	409	551	5,502	4,965	-	2	11	19	92						
+Iowa	-	1	10	27	20	8	44	66	484	450	-	0	1	-	-						
+Kans.	-	2	7	15	26	7	51	65	596	566	-	1	5	6	12						
+Minn.	-	0	1	-	-	1	78	122	968	1,021	-	0	8	-	61						
+Mo.	-	0	0	-	25	155	183	238	2,677	2,099	-	0	0	-	12						
+Nebr.	2	2	9	32	40	16	33	63	442	408	-	1	3	6	3						
+N. Dak.	-	0	3	8	6	-	12	28	159	155	-	0	2	4	4						
+S. Dak.	-	2	8	16	19	-	11	39	176	266	-	0	1	3	-						
+S. ATLANTIC	36	45	90	558	554	786	1,644	2,321	18,145	21,202	7	18	66	258	252						
+Del.	-	0	3	4	4	22	28	45	402	278	-	0	2	4	5						
+D.C.	-	0	4	-	6	-	55	137	597	361	-	0	3	6	1						
+Fla.	18	20	33	243	239	228	482	726	5,882	5,280	4	4	57	78	47						
+Ga.	11	12	51	186	166	79	303	364	2,995	4,107	3	4	14	55	48						
+Md.	3	4	13	47	51	116	134	250	1,680	1,224	-	1	6	32	27						
+N.C.	N	0	0	N	N	-	323	822	1,953	5,873	-	2	10	30	46						
+S.C.	3	2	9	30	28	205	168	271	2,419	1,886	-	2	5	18	30						
+Va.	1	5	27	46	49	123	144	359	2,046	1,981	-	2	16	34	33						
+W. Va.	-	1	5	2	11	13	13	29	171	212	-	0	3	1	15						
+E.S. CENTRAL	1	4	13	67	47	277	432	648	5,372	5,608	1	6	19	90	94						
+Ala.	1	4	13	67	47	-	127	250	1,641	1,833	-	1	6	22	30						
+Ky.	-	0	2	-	-	184	74	361	826	873	-	0	4	6	10						
+Miss.	N	0	0	N	N	93	102	238	1,497	742	1	1	3	13	14						
+Tenn.	N	0	0	N	N	-	134	228	1,408	2,160	-	3	10	49	40						
+W.S. CENTRAL	1	6	15	52	52	982	1,128	1,791	14,482	12,967	12	6	14	119	78						
+Ark.	-	2	12	28	15	5	107	222	990	140	1	1	5	14	12						
+La.	1	4	12	24	37	209	167	762	2,411	1,361	1	2	9	23	32						
+Okla.	N	0	0	N	N	26	90	114	986	1,208	2	1	6	19	30						
+Tex.	N	0	0	N	N	742	751	1,422	10,095	10,258	8	0	11	63	4						
+MOUNTAIN	5	21	51	123	224	283	410	533	5,170	4,685	1	8	17	119	123						
+Ariz.	-	3	7	38	39	119	165	252	1,906	1,734	1	2	11	50	50						
+Colo.	-	7	21	-	67	104	91	172	1,290	930	-	2	6	27	24						
+Idaho	3	3	9	35	29	3	9	30	120	89	-	0	3	13	8						
+Mont.	-	1	6	18	15	13	17	31	254	211	-	0	2	3	-						
+Nev.	-	1	4	4	13	1	51	75	497	726	-	0	3	4	9						
+N. Mex.	-	1	5	9	17	11	47	83	633	603	-	1	4	18	24						
+Utah	2	4	13	19	41	32	30	44	449	361	-	1	4	4	7						
+Wyo.	-	0	4	-	3	-	3	10	21	31	-	0	2	-	1						
+PACIFIC	23	60	175	667	656	679	1,321	1,542	16,491	15,832	2	3	11	58	65						
+Alaska	1	2	6	15	13	3	17	28	192	258	1	0	3	6	3						
+Calif.	11	41	71	486	459	496	1,080	1,311	13,858	12,741	-	1	2	10	19						
+Hawaii	-	1	3	8	4	-	21	38	126	342	-	0	5	11	2						
+Oreg.	3	6	14	75	106	84	68	98	911	739	1	2	4	29	41						
+Wash.	8	8	110	83	74	96	134	211	1,404	1,752	-	0	2	2	-						
+Amer. Samoa	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+P.R.	-	0	3	-	3	3	9	40	68	137	-	0	0	-	1						
+V.I.	-	0	0	-	-	-	0	6	3	17	N	0	0	N	N						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+NP: Nationally notifiable but not published.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Three low incidence conditions, rubella, rubella congenital, and tetanus, are in 
+Table II to facilitate case count verification with reporting jurisdictions.
+
+† Case counts for reporting years 2015 and 2016 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+§ Data for Haemophilus influenzae (age <5 for serotype b, non typable serotype, other serotype, and unknown serotype) 
+	are available in Table I.

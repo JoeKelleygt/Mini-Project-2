@@ -1,0 +1,160 @@
+TABLE 1g. Weekly cases* of notifiable diseases, United States, U.S. Territories, and Non-U.S. Residents weeks ending May 4, 2019 (week 18)
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Carbapenemase-producing carbapenem-resistant Enterobacteriaceae§ current week
+Carbapenemase-producing carbapenem-resistant Enterobacteriaceae§ previous 52 weeks maximum†
+Carbapenemase-producing carbapenem-resistant Enterobacteriaceae§ cummulative YTD for 2019†
+Carbapenemase-producing carbapenem-resistant Enterobacteriaceae§ cummulative YTD for 2018†
+Chlamydia trachomatis infection current week
+Chlamydia trachomatis infection previous 52 weeks maximum†
+Chlamydia trachomatis infection cummulative YTD for 2019†
+Chlamydia trachomatis infection cummulative YTD for 2018†
+Chancroid current week
+Chancroid previous 52 weeks maximum†
+Chancroid cummulative YTD for 2019†
+Chancroid cummulative YTD for 2018†
+
+tab delimited data:
+U.S. Residents, excluding U.S. Territories	NP	NC	NP	NN	11,859	36,677	465,534	605,844	-	1	-	2	
+New England	NP	NC	NP	NN	137	1,063	13,430	15,292	-	0	-	-	
+Connecticut	NP	NC	NP	NN	U	NC	U	U	U	NC	U	U	
+Maine	NP	NC	NP	NN	56	125	1,456	1,620	-	0	-	-	
+Massachusetts	NP	NC	NP	NN	-	708	9,608	10,195	-	0	-	-	
+New Hampshire	NP	NC	NP	NN	81	107	1,313	1,399	-	0	-	-	
+Rhode Island	NP	NC	NP	NN	-	529	810	1,449	-	0	-	-	
+Vermont	NP	NC	NP	NN	-	50	243	629	-	0	-	-	
+Middle Atlantic	NP	NC	NP	NN	3,458	4,850	74,548	74,247	-	0	-	-	
+New Jersey	NP	NC	NP	NN	510	949	12,403	12,428	-	0	-	-	
+New York (excluding New York City)	NP	NC	NP	NN	1,006	1,083	15,909	16,339	-	0	-	-	
+New York City	NP	NC	NP	NN	959	1,697	25,672	24,883	-	0	-	-	
+Pennsylvania	NP	NC	NP	NN	983	1,379	20,564	20,597	-	0	-	-	
+East North Central	NP	NC	NP	NN	1,698	5,570	69,716	85,910	-	0	-	-	
+Illinois	NP	NC	NP	NN	-	1,659	11,248	26,089	-	0	-	-	
+Indiana	NP	NC	NP	NN	314	997	11,199	11,619	-	0	-	-	
+Michigan	NP	NC	NP	NN	369	1,254	15,682	17,091	-	0	-	-	
+Ohio	NP	NC	NP	NN	692	1,496	22,048	21,605	-	0	-	-	
+Wisconsin	NP	NC	NP	NN	323	640	9,539	9,506	-	0	-	-	
+West North Central	NP	NC	NP	NN	643	2,328	29,939	35,307	-	0	-	-	
+Iowa	NP	NC	NP	NN	-	342	4,096	5,007	-	0	-	-	
+Kansas	NP	NC	NP	NN	135	339	4,876	4,690	-	0	-	-	
+Minnesota	NP	NC	NP	NN	25	561	5,821	8,020	-	0	-	-	
+Missouri	NP	NC	NP	NN	464	846	11,807	11,862	-	0	-	-	
+Nebraska	NP	NC	NP	NN	-	253	1,619	3,005	-	0	-	-	
+North Dakota	NP	NC	NP	NN	-	91	426	1,184	-	0	-	-	
+South Dakota	NP	NC	NP	NN	19	109	1,294	1,539	-	0	-	-	
+South Atlantic	NP	NC	NP	NN	2,361	8,087	94,956	136,143	-	0	-	1	
+Delaware	NP	NC	NP	NN	-	300	1,905	1,786	-	0	-	-	
+District of Columbia	NP	NC	NP	NN	-	212	-	3,271	-	0	-	-	
+Florida	NP	NC	NP	NN	1,357	2,493	35,805	35,015	-	0	-	-	
+Georgia	NP	NC	NP	NN	-	1,528	13,619	23,398	-	0	-	-	
+Maryland	NP	NC	NP	NN	62	781	8,135	12,399	-	0	-	-	
+North Carolina	NP	NC	NP	NN	35	1,482	17,708	22,952	-	0	-	-	
+South Carolina	NP	NC	NP	NN	-	1,348	-	21,312	-	0	-	1	
+Virginia	NP	NC	NP	NN	895	1,258	16,571	14,724	-	0	-	-	
+West Virginia	NP	NC	NP	NN	12	251	1,213	1,286	-	0	-	-	
+East South Central	NP	NC	NP	NN	960	5,951	31,302	32,682	-	0	-	-	
+Alabama	NP	NC	NP	NN	619	939	11,068	9,354	-	0	-	-	
+Kentucky	NP	NC	NP	NN	-	4,788	3,467	2,413	-	0	-	-	
+Mississippi	NP	NC	NP	NN	38	554	6,120	7,639	-	0	-	-	
+Tennessee	NP	NC	NP	NN	303	962	10,647	13,276	-	0	-	-	
+West South Central	NP	NC	NP	NN	234	4,925	18,365	80,101	-	1	-	-	
+Arkansas	NP	NC	NP	NN	-	415	2,068	6,196	-	0	-	-	
+Louisiana	NP	NC	NP	NN	178	861	11,454	12,441	-	0	-	-	
+Oklahoma	NP	NC	NP	NN	56	541	4,843	7,516	-	0	-	-	
+Texas	NP	NC	NP	NN	-	3,205	-	53,948	-	1	-	-	
+Mountain	NP	NC	NP	NN	889	2,867	40,598	42,092	-	1	-	-	
+Arizona	NP	NC	NP	NN	415	961	13,926	14,034	-	0	-	-	
+Colorado	NP	NC	NP	NN	-	946	9,446	9,445	-	0	-	-	
+Idaho	NP	NC	NP	NN	90	198	2,429	2,010	-	0	-	-	
+Montana	NP	NC	NP	NN	-	142	1,425	1,768	-	1	-	-	
+Nevada	NP	NC	NP	NN	182	439	4,858	5,575	-	0	-	-	
+New Mexico	NP	NC	NP	NN	28	325	4,159	4,858	-	0	-	-	
+Utah	NP	NC	NP	NN	146	250	3,714	3,621	-	0	-	-	
+Wyoming	NP	NC	NP	NN	28	63	641	781	-	0	-	-	
+Pacific	NP	NC	NP	NN	1,479	6,240	92,680	104,070	-	0	-	1	
+Alaska	NP	NC	NP	NN	-	152	-	2,208	-	0	-	-	
+California	NP	NC	NP	NN	467	5,218	76,357	79,933	-	0	-	1	
+Hawaii	NP	NC	NP	NN	-	187	-	2,610	-	0	-	-	
+Oregon	NP	NC	NP	NN	437	485	6,448	6,903	-	0	-	-	
+Washington	NP	NC	NP	NN	575	758	9,875	12,416	-	0	-	-	
+U.S. Territories	NP	NC	NP	NN	-	249	1,705	2,165	-	0	-	-	
+American Samoa	NP	NC	NP	NN	-	0	-	-	-	0	-	-	
+Commonwealth of Northern Mariana Islands	NP	NC	NP	NN	-	0	-	-	-	0	-	-	
+Guam	NP	NC	NP	NN	-	0	-	-	-	0	-	-	
+Puerto Rico	NP	NC	NP	NN	-	243	1,705	1,983	-	0	-	-	
+U.S. Virgin Islands	NP	NC	NP	NN	-	15	-	182	-	0	-	-	
+Non-U.S. Residents	NP	NC	NP	NN	-	NC	1	NP	-	NC	-	NP	
+Total	NP	NC	NP	NN	11,859	36,817	467,240	608,009	-	1	-	2	
+
+U: Unavailable - The reporting jurisdiction was unable to send the data to CDC or CDC was unable to process the data.
+-: No reported cases - The reporting jurisdiction did not submit any cases to CDC.
+N: Not reportable - The disease or condition was not reportable by law, statute, or regulation in the reporting jurisdiction. 
+NN: Not nationally notifiable - This condition was not designated as being nationally notifiable.
+NP: Nationally notifiable but not published.
+NC: Not calculated - There is insufficient data available to support the calculation of this statistic.
+Cum: Cumulative year-to-date counts.
+Maximum - Maximum case count during the previous 52 weeks.
+* Case counts for reporting years 2018 and 2019 are provisional and subject to change.
+Cases are assigned to the reporting jurisdiction submitting the case to NNDSS, if the case's country of usual residence is the U.S., 
+a U.S. territory, unknown, or null (i.e. country not reported); otherwise, the case is assigned to the 'Non-U.S. Residents' category.
+Country of usual residence is currently not reported by all jurisdictions or for all conditions.  
+For further information on interpretation of these data, see  
+https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf.
+†Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data). 
+§ Data for Carbapenemase-producing Carbapenem-resistant enterobacteriaceae (CP-CRE) will be displayed in this table after the CDC obtains Office of Management and Budget Paperwork Reduction Act approval to receive data for this condition.
+
+
+Notes:
+
+	These are weekly cases of selected infectious 
+	national notifiable diseases, from the 
+	National Notifiable Diseases Surveillance System (NNDSS).  
+	NNDSS data reported by the 50 states, New York City, the District of Columbia, 
+	and the U.S. territories are collated and published weekly as numbered tables. 
+	Cases reported by state health departments to CDC for weekly publication are 
+	subject to ongoing revision of information and delayed reporting.
+	Therefore, numbers listed in later weeks may reflect changes made to 
+	these counts as additional information becomes available. 
+	Case counts in the tables are presented as published each week.
+	See also https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf, 
+	Guide to Interpreting Provisional and Finalized NNDSS Data. 
+
+
+	Weekly tables since 1996 are available on 
+	https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp, CDC WONDER. 
+
+	Weekly tables since 2014 are available on 
+	https://data.cdc.gov/browse?q=NNDSS&sortBy=newest&utf8=%E2%9C%93, Data.CDC.gov. 
+
+	Weekly tables for 1952-2017 published in the MMWR are available at https://stacks.cdc.gov/mmwr, CDC Stacks MMWR, 
+	and weekly tables starting in 2018 are available at https://stacks.cdc.gov/nndss, CDC Stacks NNDSS
+	(once in CDC Stacks NNDSS select "Weekly Tables" in the "Genre" box at the left).
+
+
+	Notices, errata, and other notes are available in the  
+	https://wonder.cdc.gov/nndss/NTR.html, Notice To Data Users page.
+
+	The list of national notifiable infectious diseases and conditions and their national surveillance case definitions are 
+	available at https://wwwn.cdc.gov/nndss/conditions/, https://wwwn.cdc.gov/nndss/conditions/. This list incorporates the Council of State and Territorial 
+	Epidemiologists (CSTE) position statements approved by CSTE for national surveillance. 
+
+Suggested Citation:
+
+	Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System, 
+	Weekly Tables of Infectious Disease Data. Atlanta, GA. CDC Division of Health Informatics and Surveillance. 
+	Available at: https://www.cdc.gov/nndss/infectious-tables.html, https://www.cdc.gov/nndss/infectious-tables.html.
+
+Acknowledgement:
+
+	CDC acknowledges the Local, State, and Territorial Health Departments that collected the data from a range of case ascertainment 
+	sources (e.g., health-care providers, hospitals, laboratories) and reported these data to 
+	CDC's National Notifiable Diseases Surveillance System.
+
+
+
+https://wwwn.cdc.gov/nndss/, National Notifiable Diseases Surveillance System
+
+Provided by https://wonder.cdc.gov, CDC WONDER
+
+
+

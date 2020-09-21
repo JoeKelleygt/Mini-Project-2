@@ -1,0 +1,152 @@
+TABLE II. (Part 5)  Provisional cases of selected notifiable diseases (>= 1,000 cases reported during the preceding year), and selected* low frequency diseases, United States and U.S. territories, week ending May 6, 2017 (WEEK 18)†
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Giardiasis current week
+Giardiasis previous 52 weeks median 
+Giardiasis previous 52 weeks maximum 
+Giardiasis cummulative for 2017
+Giardiasis cummulative for 2016
+Gonorrhea current week
+Gonorrhea previous 52 weeks median 
+Gonorrhea previous 52 weeks maximum 
+Gonorrhea cummulative for 2017
+Gonorrhea cummulative for 2016
+Haemophilus influenzae, invasive §, All ages, all serotypes current week
+Haemophilus influenzae, invasive §, All ages, all serotypes previous 52 weeks median 
+Haemophilus influenzae, invasive §, All ages, all serotypes previous 52 weeks maximum 
+Haemophilus influenzae, invasive §, All ages, all serotypes cummulative for 2017
+Haemophilus influenzae, invasive §, All ages, all serotypes cummulative for 2016
+
+tab delimited data:
+UNITED STATES	131	275	468	3,764	4,610	4,631	9,036	12,281	142,008	147,870	48	83	189	1,639	1,828						
+NEW ENGLAND	6	12	25	252	166	88	188	426	3,451	2,871	1	3	13	76	53						
+Conn.	-	4	11	50	81	16	56	130	894	711	-	1	4	12	25						
+Maine	2	2	8	19	43	-	8	28	149	157	-	0	2	14	12						
+Mass.	2	0	13	147	-	71	107	145	2,063	1,542	1	0	7	40	-						
+N.H.	-	2	6	22	27	1	9	51	194	230	-	0	2	6	8						
+R.I.	2	1	9	14	15	-	7	213	99	179	-	0	12	-	4						
+Vt.	N	0	0	N	N	-	2	10	52	52	-	0	2	4	4						
+MID. ATLANTIC	27	51	96	675	892	739	1,079	1,347	20,156	16,246	14	12	27	212	274						
+N.J.	-	7	17	42	164	58	158	197	2,588	2,661	-	3	8	37	45						
+N.Y. (Upstate)	12	16	42	204	289	208	190	531	3,230	2,840	6	4	15	66	81						
+N.Y. City	12	17	27	316	273	242	403	503	7,685	5,935	5	2	7	32	46						
+Pa.	3	10	36	113	166	231	301	534	6,653	4,810	3	4	11	77	102						
+E.N. CENTRAL	7	27	153	335	446	230	1,354	1,603	20,011	22,594	5	13	34	233	329						
+Ill.	N	0	0	N	N	24	391	515	4,089	6,802	-	4	12	68	83						
+Ind.	-	4	9	22	52	94	192	268	3,567	3,152	-	2	9	21	41						
+Mich.	1	10	26	117	146	26	246	337	3,587	3,824	1	3	7	57	77						
+Ohio	5	5	135	110	111	-	404	483	6,696	6,565	4	3	8	80	74						
+Wis.	1	7	86	86	137	86	126	157	2,072	2,251	-	1	6	7	54						
+W.N. CENTRAL	3	24	67	228	473	201	553	644	9,612	8,710	4	5	15	102	118						
+Iowa	-	4	13	52	68	-	52	74	914	866	-	0	0	-	-						
+Kans.	-	2	8	25	35	2	73	98	1,277	1,017	-	1	5	20	21						
+Minn.	-	10	29	-	185	3	107	131	1,850	1,619	-	0	1	1	-						
+Mo.	2	5	16	75	90	168	232	286	4,211	3,695	3	2	9	51	67						
+Nebr.	1	2	9	41	43	25	43	77	824	740	1	1	4	18	10						
+N. Dak.	-	1	4	6	18	3	17	34	198	315	-	0	3	4	9						
+S. Dak.	-	2	6	29	34	-	23	36	338	458	-	0	2	8	11						
+S. ATLANTIC	28	52	74	755	860	883	1,971	3,736	19,214	31,890	7	20	40	415	478						
+Del.	-	0	3	5	6	33	35	59	617	541	-	0	3	8	8						
+D.C.	-	0	2	-	5	-	65	146	307	868	-	0	1	1	7						
+Fla.	14	21	44	363	396	350	566	903	9,773	8,882	5	4	10	94	168						
+Ga.	6	15	23	207	235	157	380	477	1,917	6,667	-	3	10	65	86						
+Md.	5	4	11	60	72	102	174	398	2,426	2,569	-	2	11	48	47						
+N.C.	-	0	0	-	-	-	366	440	116	6,388	-	3	10	55	72						
+S.C.	-	3	7	36	42	218	189	300	3,616	3,256	-	3	10	82	36						
+Va.	3	5	23	73	78	-	141	1,530	-	2,433	2	2	15	47	41						
+W. Va.	-	2	5	11	26	23	20	38	442	286	-	1	3	15	13						
+E.S. CENTRAL	-	4	10	48	93	255	612	830	9,774	9,836	1	7	12	131	139						
+Ala.	-	4	10	48	93	-	163	268	2,733	2,807	-	1	4	21	36						
+Ky.	N	0	0	N	N	142	122	275	2,282	1,429	1	1	6	32	17						
+Miss.	N	0	0	N	N	113	129	219	1,785	2,182	-	1	4	23	24						
+Tenn.	N	0	0	N	N	-	193	333	2,974	3,418	-	3	7	55	62						
+W.S. CENTRAL	-	6	21	53	106	1,003	1,319	1,720	23,071	21,637	7	10	46	204	175						
+Ark.	-	3	18	44	42	53	104	215	1,456	1,598	-	1	4	25	18						
+La.	-	3	12	9	64	188	228	673	4,259	3,207	-	1	4	23	31						
+Okla.	N	0	0	N	N	22	143	196	1,855	2,489	3	1	8	42	25						
+Tex.	N	0	0	N	N	740	847	1,216	15,501	14,343	4	6	36	114	101						
+MOUNTAIN	16	23	42	339	344	259	545	766	9,041	8,419	4	8	15	181	168						
+Ariz.	1	2	6	45	54	163	206	326	3,265	3,051	3	2	7	68	60						
+Colo.	11	9	16	149	130	-	126	253	1,985	1,646	1	1	5	35	37						
+Idaho	2	3	13	40	47	-	13	39	246	222	-	0	3	11	14						
+Mont.	-	2	8	30	27	-	14	26	174	363	-	0	3	10	5						
+Nev.	-	1	4	9	21	43	86	127	1,332	1,299	-	1	3	19	14						
+N. Mex.	-	1	9	21	21	10	68	130	1,164	1,074	-	1	2	16	29						
+Utah	2	3	9	45	32	40	41	59	793	704	-	1	3	22	9						
+Wyo.	-	0	2	-	12	3	6	16	82	60	-	0	2	-	-						
+PACIFIC	44	70	158	1,079	1,230	973	1,578	2,000	27,678	25,667	5	4	10	85	94						
+Alaska	-	1	5	14	19	-	24	54	18	438	-	0	2	4	8						
+Calif.	14	53	83	843	939	750	1,317	1,590	23,431	20,775	-	1	3	20	19						
+Hawaii	-	1	2	15	21	-	27	50	340	445	-	0	3	14	20						
+Oreg.	2	5	18	80	107	93	89	130	1,592	1,289	5	2	7	45	43						
+Wash.	28	7	112	127	144	130	146	208	2,297	2,720	-	0	2	2	4						
+Amer. Samoa	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+P.R.	-	0	3	3	6	-	13	28	154	236	-	0	2	3	1						
+V.I.	-	0	0	-	-	-	0	3	1	13	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+NP: Nationally notifiable but not published.
+Cumulative: year-to-date counts.
+
+* Three low incidence conditions, rubella, rubella congenital, and tetanus, are in 
+Table II to facilitate case count verification with reporting jurisdictions.
+
+† Case counts for reporting years 2016 and 2017 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+
+Data for tuberculosis are displayed quarterly.
+
+§ Data for Haemophilus influenzae (age <5 for serotype b, nontypeable, non-b serotype, and unknown serotype) are available in Table I.
+
+
+Notes:
+
+	These are weekly cases of selected infectious 
+	national notifiable diseases, from the 
+	National Notifiable Diseases Surveillance System (NNDSS).  
+	NNDSS data reported by the 50 states, New York City, the District of Columbia, 
+	and the U.S. territories are collated and published weekly as numbered tables. 
+	Cases reported by state health departments to CDC for weekly publication are 
+	subject to ongoing revision of information and delayed reporting.
+	Therefore, numbers listed in later weeks may reflect changes made to 
+	these counts as additional information becomes available. 
+	Case counts in the tables are presented as published each week.
+	See also https://wwwn.cdc.gov/nndss/document/guide_to_interpreting_provisional_and_finalized_nndss_data_tables.pdf, 
+	Guide to Interpreting Provisional and Finalized NNDSS Data. 
+
+
+	Weekly tables since 1996 are available on 
+	https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp, CDC WONDER. 
+
+	Weekly tables since 2014 are available on 
+	https://data.cdc.gov/browse?q=NNDSS&sortBy=newest&utf8=%E2%9C%93, Data.CDC.gov. 
+
+	Weekly tables for 1952-2017 published in the MMWR are available at https://stacks.cdc.gov/mmwr, CDC Stacks MMWR, 
+	and weekly tables starting in 2018 are available at https://stacks.cdc.gov/nndss, CDC Stacks NNDSS
+	(once in CDC Stacks NNDSS select "Weekly Tables" in the "Genre" box at the left).
+
+
+	Notices, errata, and other notes are available in the  
+	https://wonder.cdc.gov/nndss/NTR.html, Notice To Data Users page.
+
+Suggested Citation:
+
+	Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System, 
+	Weekly Tables of Infectious Disease Data. Atlanta, GA. CDC Division of Health Informatics and Surveillance. 
+	Available at: https://www.cdc.gov/nndss/infectious-tables.html, https://www.cdc.gov/nndss/infectious-tables.html.
+
+
+
+https://wwwn.cdc.gov/nndss/, National Notifiable Diseases Surveillance System
+
+Provided by https://wonder.cdc.gov, CDC WONDER
+
+
+
